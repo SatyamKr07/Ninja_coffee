@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121808455495",
+    "firebase_url": "https://tnn-fandf.firebaseio.com",
+    "project_id": "tnn-fandf",
+    "storage_bucket": "tnn-fandf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121808455495:android:fde8a8ee0f5e15bdd7ee62",
+        "android_client_info": {
+          "package_name": "com.satya.tnn_ff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121808455495-gim63k6d3ii18caqsk44c36cguf89l5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satya.tnn_ff",
+            "certificate_hash": "ed142cbc94d6695d650ea9907fef278d4c97a30a"
+          }
+        },
+        {
+          "client_id": "121808455495-cqs34tta0b7b8pg06cjqlv88869085ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQPiIe0LJh8V0GFnLxpkXS9qL1WvrU30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121808455495-cqs34tta0b7b8pg06cjqlv88869085ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
